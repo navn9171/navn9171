@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navn9171&theme=tokyonight)
 <br />
-<!--![](https://visitor-badge.laobi.icu/badge?page_id=aakashratha1006.aakashratha1006) -->
+![](https://visitor-badge.laobi.icu/badge?page_id=navn9171.navn9171) 
 
