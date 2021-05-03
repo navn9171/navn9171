@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 ## ⚙️ Languages and Tools
 <p align="center">
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JetBrains/logos/master/web/intellij-idea/favicon.ico"></code>
@@ -52,15 +51,13 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
+
 </p> 
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashratha1006&show_icons=true&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=navn9171&show_icons=true&theme=tokyonight)
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashratha1006&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navn9171&theme=tokyonight)
 <br />
-![](https://visitor-badge.laobi.icu/badge?page_id=aakashratha1006.aakashratha1006) -->
+<!--![](https://visitor-badge.laobi.icu/badge?page_id=aakashratha1006.aakashratha1006) -->
 
